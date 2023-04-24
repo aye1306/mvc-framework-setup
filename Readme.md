@@ -4,4 +4,4 @@
 
 - วิธีติดตั้ง git clone https://github.com/aye1306/mvc-framework-setup.git
 
-- คุณสามารถลบ .git ในโฟลเดอรืได้
+- คุณสามารถลบ .git ในโฟลเดอร์ได้
