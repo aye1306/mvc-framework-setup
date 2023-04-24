@@ -1,0 +1,1 @@
+ใน Folder views ไม่ควรมีไฟล์ชื่อ index.php
